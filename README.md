@@ -13,5 +13,5 @@ Setup Windows Server 2016 to be able to compile unzipsfx-win32
 ## How to contribute
 
 1. Fork the repo
-2. Make changes and commit to your own repository
+2. Make changes to provide an Apache 2 Open source License and commit to your own repository
 3. Submit a pull request back into this repository
